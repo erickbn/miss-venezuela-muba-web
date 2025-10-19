@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Miss Venezuela · MUBA (Demo Web)",
-  description: "Presentación web interactiva con 1–2 fotos por slide, animaciones y autoplay.",
+  description: "Presentación web interactiva con 1–2 fotos por slide, animaciones y autoplay."
 };
 
 import "./globals.css";
